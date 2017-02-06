@@ -11,12 +11,12 @@ if len(sys.argv) > 1:
     for tempa in sys.argv[1:]:
         print(tempa, f2c(tempa))
 
-# print("100 {0: 6.2f}".format(f2c(100)))
-# print("0 {0: 6.2f}".format(f2c(0)))
-# print("37 {0: 6.2f}".format(f2c(37)))
-# print("-40 {0: 6.2f}".format(f2c(-40)))
-#
-#
+print("100 {0: 6.2f}".format(f2c(100)))
+print("0 {0: 6.2f}".format(f2c(0)))
+print("37 {0: 6.2f}".format(f2c(37)))
+print("-40 {0: 6.2f}".format(f2c(-40)))
+
+
 
 
 while True:
