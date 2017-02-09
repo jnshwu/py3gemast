@@ -38,3 +38,4 @@ print(clean_fruit)
 
 for c in computer_people:
     print(c[1])
+
