@@ -30,3 +30,5 @@ print(airports.get(key, 'NO SUCH AIRPORT'))
 print(airports.setdefault(key, 'Palm Springs'))
 print(key in airports)
 
+print(d3)
+print(pairs)

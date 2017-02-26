@@ -3,10 +3,11 @@ brocolli
 abercrombie
 bunyan
 apple
-banana
+Banana
 arthur
-beatrice
+Beatrice
 afghanistan
+xyw
 bermuda
 alfa romeo
 bugatti

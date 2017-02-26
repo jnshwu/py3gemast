@@ -10,4 +10,4 @@ for c in enumerate(colors):
 print()
     
 for num,month in enumerate( months, 1 ):
-    print("{0} {1}".format( num, month ))
+    print("{0} {1}".format(num,month ))
